@@ -1,11 +1,13 @@
 import React from 'react';
-import Form from './Components/Form';
+import Header from './Components/Header';
+import Button from './Components/Button';
 
 class App extends React.Component  {
     render() {
         return (
             <>
-            <Form />
+            <Header text="Hit it!" />
+            <Button label="Hey!" />
             </>
         );
     }
