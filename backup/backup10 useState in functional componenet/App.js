@@ -1,9 +1,9 @@
 import React from 'react';
-import Test from "./Components/Test";
+import Counter from "./Components/Counter";
 
 class App extends React.Component  {
     render() {
-        return (<Test /> );
+        return (<Counter /> );
     }
 }
 
