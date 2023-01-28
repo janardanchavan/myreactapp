@@ -1,0 +1,20 @@
+This file is created with ""nano" command, which either opens the existing one for editing or creates & opens the empty file to enter, if it doesn't exist.
+
+Opening nano editor with blank file without any name:
+>nano
+1. write your text
+2. Press Ctrl+O
+3. Type the new file name
+4. Press Enter
+
+Opening nano editor with new/existing file name, eg. test5.txt
+> nano test5.txt
+1. Write your text
+2. Press Ctrl+O
+3. Press Enter (as we already have provided file name while starting the nano editor.
+
+
+Exit from Nano:
+1. Presst Ctrl+X
+
+

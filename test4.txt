@@ -1,0 +1,1 @@
+New file created using 'vi' command which either opens the existing one for editing or creates & opens the empty file to enter, if it doesn't.
